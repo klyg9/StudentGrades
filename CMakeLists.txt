@@ -4,3 +4,4 @@ project(StudentGrades)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(StudentGrades main.cpp)
+
